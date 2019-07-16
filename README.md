@@ -1,4 +1,4 @@
-# IB111_projects
+# IB111 Projects
 Repository for my projects made in the advanced group of the class IB111 - Basics of Programming.
 In the file "Správa IB111.pdf" is a complete report (in Slovak) about the projects with analysis and graphs of the results.
 There were three projects:
