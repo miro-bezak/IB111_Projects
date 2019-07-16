@@ -8,6 +8,7 @@ There were three projects:
 
 ### 2. Data handling and analyis
 - I looked into the data of an online blank map test site(slepemapy.cz), which also uses Adaptive Learning
+- input files had to be split becuase of the GitHub size limit - script won't work, has to rerun with changed values
 - the main question was which continent do Czech and Slovak citizens know the best
 - Nokia HereWeGo map API and `pycountry_convert` were used to fetch the continent on which certain location was, since this was not present in the dataset
 
